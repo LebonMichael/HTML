@@ -1,0 +1,37 @@
+body{
+    background: lightblue;
+}
+
+#eerstebox {
+    margin: 50px;
+    border: 10px solid red;
+    padding: 10px;
+    background: greenyellow;
+}
+#eerstebox-a{
+    /*color: red;*/
+    /*color: #696969;*/
+    /*color: rgb(190, 105, 110);*/
+    color: rgba(22,205,141,1);
+
+
+}
+#eerstebox-b{
+    margin: 50px 25px;
+    padding: 10px 5px;
+    border: 5px dotted rgba(50,60,70,1);
+
+}
+
+#tweedebox{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 5px dotted purple;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}

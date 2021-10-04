@@ -1,0 +1,16 @@
+*{ /* * is voor alles dat in styling zit maar eenmaal in te voeren */
+    box-sizing: border-box; /*zet het kader in de juist pixels die aan ge geven zijn*/
+}
+body{
+    font-family: 'Raleway', sans-serif;;
+}
+#box1,#box2{
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+}
+#box2{
+    padding: 20px;
+    font-family: "Times New Roman";
+
+}

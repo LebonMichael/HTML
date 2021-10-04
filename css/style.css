@@ -1,0 +1,17 @@
+p{
+    color: red;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center
+}
+.orange{
+    color: orange;
+}
+.blue{
+    color: blue;
+    font-size: 25px;
+
+}
+#geel{
+    color: yellow;
+}
